@@ -1,6 +1,12 @@
 # Techit's Thai Fixes
 Hi My name is Techit, I'm the creator of this resource pack, a Miencraft resource pack wihchi will fixes your Minecraft Thai language's appearance. Without this resource pack, the Thai language is very hard to read and it is super ugly.
 
+## Downloads
+Modrinth is the primary download source, you can get them here.
+<a href="https://modrinth.com/resourcepack/techit-thaifixes/versions">
+  <img alt="" src="https://files.techit.win/images/logos/modrinth/getonmodrinth.png" style="width:100%;max-width:300px;"/>
+</a>
+
 ## In-game images
 ![Minecraft 1.21.1 at main menu](https://files.techit.win/images/site/g12.png)
 
