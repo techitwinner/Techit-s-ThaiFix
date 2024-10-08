@@ -2,9 +2,9 @@
     "providers": [
       {
         "type": "ttf",
-        "file": "kanit.ttf",
+        "file": "sarabun.ttf",
         "shift": [0, -0.1],
-        "size": 9.0,
+        "size": 8.5,
         "oversample": 8
       }
     ]
